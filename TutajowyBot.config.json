@@ -1,0 +1,13 @@
+{
+    "DiscordToken": "",
+    "SQL_Host": "",
+    "SQL_User": "",
+    "SQL_Pass": "",
+    "SQL_Database": "",
+    "SQL_Charset": "",
+    "ROLE_OstrzezenieBan_ID": "",
+    "ROLE_OstrzezenieKick_ID": "",
+    "EMBED_Kolor": "",
+    "BOT_UserID": "",
+    "METO_Prefix": ""
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "as-table": "^1.0.55",
+    "discord.js": "^12.5.1",
+    "mysql": "^2.18.1",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.7.0"
+  }
+}
